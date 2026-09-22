@@ -7,7 +7,7 @@ and Design," 3rd ed., Wiley, 2005, Examples 14.1, 14.2 and 14.3
 c to 3e8 m/s (lambda0 = 3 cm); this code uses the exact c, which accounts
 for the 0.08 % differences in W and L.
 
-Run: python3 verify.py   (about 5 s)
+Run: python3 verify.py   (about 1 s)
 """
 import math
 import sys
