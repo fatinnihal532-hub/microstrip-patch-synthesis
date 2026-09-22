@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Microstrip Patch Antenna Synthesis and Laminate Trade-off Study"
+authors:
+  - family-names: "Islam"
+    given-names: "Fatin Nihal"
+    affiliation: "Khulna University of Engineering & Technology (KUET)"
+date-released: 2026-09-22
+license: MIT
+repository-code: "https://github.com/fatinnihal532-hub/microstrip-patch-synthesis"
+keywords:
+  - microstrip patch antenna
+  - cavity model
+  - transmission-line model
+  - quality factor
+  - radiation efficiency
+  - 2.4 GHz ISM band
+references:
+  - type: book
+    authors:
+      - family-names: "Balanis"
+        given-names: "Constantine A."
+    title: "Antenna Theory: Analysis and Design"
+    edition: "3rd"
+    publisher:
+      name: "Wiley"
+    year: 2005
